@@ -1,42 +1,42 @@
 [
   {
-    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/TheSystem/build",
+    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/Principium/build",
     "command": "cc -Igame.p -I. -I.. -I../src/core -I../src/gameplay -I../src/graphics -I../src/objects -I/usr/local/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -std=c23 -MD -MQ game.p/src_core_main.c.o -MF game.p/src_core_main.c.o.d -o game.p/src_core_main.c.o -c ../src/core/main.c",
     "file": "../src/core/main.c",
     "output": "game.p/src_core_main.c.o"
   },
   {
-    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/TheSystem/build",
+    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/Principium/build",
     "command": "cc -Igame.p -I. -I.. -I../src/core -I../src/gameplay -I../src/graphics -I../src/objects -I/usr/local/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -std=c23 -MD -MQ game.p/src_gameplay_game.c.o -MF game.p/src_gameplay_game.c.o.d -o game.p/src_gameplay_game.c.o -c ../src/gameplay/game.c",
     "file": "../src/gameplay/game.c",
     "output": "game.p/src_gameplay_game.c.o"
   },
   {
-    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/TheSystem/build",
+    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/Principium/build",
     "command": "cc -Igame.p -I. -I.. -I../src/core -I../src/gameplay -I../src/graphics -I../src/objects -I/usr/local/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -std=c23 -MD -MQ game.p/src_gameplay_objects.c.o -MF game.p/src_gameplay_objects.c.o.d -o game.p/src_gameplay_objects.c.o -c ../src/gameplay/objects.c",
     "file": "../src/gameplay/objects.c",
     "output": "game.p/src_gameplay_objects.c.o"
   },
   {
-    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/TheSystem/build",
+    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/Principium/build",
     "command": "cc -Igame.p -I. -I.. -I../src/core -I../src/gameplay -I../src/graphics -I../src/objects -I/usr/local/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -std=c23 -MD -MQ game.p/src_graphics_render.c.o -MF game.p/src_graphics_render.c.o.d -o game.p/src_graphics_render.c.o -c ../src/graphics/render.c",
     "file": "../src/graphics/render.c",
     "output": "game.p/src_graphics_render.c.o"
   },
   {
-    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/TheSystem/build",
+    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/Principium/build",
     "command": "cc -Igame.p -I. -I.. -I../src/core -I../src/gameplay -I../src/graphics -I../src/objects -I/usr/local/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -std=c23 -MD -MQ game.p/src_objects_circle.c.o -MF game.p/src_objects_circle.c.o.d -o game.p/src_objects_circle.c.o -c ../src/objects/circle.c",
     "file": "../src/objects/circle.c",
     "output": "game.p/src_objects_circle.c.o"
   },
   {
-    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/TheSystem/build",
+    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/Principium/build",
     "command": "cc -Igame.p -I. -I.. -I../src/core -I../src/gameplay -I../src/graphics -I../src/objects -I/usr/local/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -std=c23 -MD -MQ game.p/src_objects_background.c.o -MF game.p/src_objects_background.c.o.d -o game.p/src_objects_background.c.o -c ../src/objects/background.c",
     "file": "../src/objects/background.c",
     "output": "game.p/src_objects_background.c.o"
   },
   {
-    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/TheSystem/build",
+    "directory": "/home/Vittoria/Code/Application Programming Interfaces/Raylib/Principium/build",
     "command": "cc -Igame.p -I. -I.. -I../src/core -I../src/gameplay -I../src/graphics -I../src/objects -I/usr/local/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -std=c23 -MD -MQ game.p/src_objects_stats.c.o -MF game.p/src_objects_stats.c.o.d -o game.p/src_objects_stats.c.o -c ../src/objects/stats.c",
     "file": "../src/objects/stats.c",
     "output": "game.p/src_objects_stats.c.o"
