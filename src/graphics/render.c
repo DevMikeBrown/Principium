@@ -15,7 +15,7 @@ bool render_queue(RenderTask *rend) {
   return true;
 }
 
-int compare(const void *a, const void *b) {
+static int compare(const void *a, const void *b) {
   const RenderTask *ia = a;
   const RenderTask *ib = b;
 

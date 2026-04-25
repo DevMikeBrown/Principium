@@ -1,1 +1,3 @@
-#include "objects/circle.h"
+#include "background.h"
+#include "circle.h"
+#include "stats.h"
